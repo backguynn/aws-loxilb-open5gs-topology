@@ -1,7 +1,7 @@
 # aws-loxilb-open5gs-topology
 
 ## 사용하기 전
-먼저 terraform 설치가 필요합니다. [테라폼 설치 페이지]를 참고해서 설치해주세요.
+먼저 terraform 설치가 필요합니다. [테라폼 설치 페이지]를 참고해서 설치해주세요.   
 AWS에 배포를 위해서 AWS 접근 권한을 가진 IAM 권한 설정이 필요합니다.   
 AWS 사용자의 Access Key 정보 등록을 위해 aws CLI 설치가 필요합니다. [aws CLI 설치 페이지]를 참고해서 설치해주세요.
 
